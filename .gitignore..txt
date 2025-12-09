@@ -1,0 +1,25 @@
+# Keil uVision ignores
+*.uvguix.*
+*.uvoptx
+*.uvopt
+*.bak
+*.dep
+*.o
+*.d
+*.crf
+*.ier
+*.i
+*.lnp
+*.lst
+*.map
+*.axf
+*.hex
+*.htm
+*.sct
+*.lib
+
+# Ignore default output folders
+Objects/
+Listings/
+DebugConfig/
+RTE/
